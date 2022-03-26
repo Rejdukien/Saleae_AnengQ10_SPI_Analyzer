@@ -3,7 +3,7 @@
   "apiVersion": "1.0.0",
   "author": "Rejdukien",
   "version": "0.0.1",
-  "description": "Analyzing SPI communication between DTM0660L and the unmarked LCD driver; Every single segment is simply encoded as bitflag.\nManufacturer seems to be ZOYI/Zhongyi, Model ZTY.",
+  "description": "Analyzing SPI communication between DTM0660L and the unmarked LCD driver; Every single segment is simply encoded as bitflag.\nManufacturer seems to be ZOYI/Zotek, Model ZTY.",
   "extensions": {
     "Aneng Q10 LCD Driver SPI Analyzer": {
       "type": "HighLevelAnalyzer",
